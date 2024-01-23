@@ -15,7 +15,7 @@ async function getData() {
       age: true,
       youtubeString: true,
     },
-  });
+  }); 
   return data;
 }
 
