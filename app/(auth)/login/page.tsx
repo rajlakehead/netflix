@@ -34,7 +34,7 @@ export default async function Login() {
       </form>
 
       <div className="text-gray-500 text-sm mt-2">
-        New to Neflix?{" "}
+        New to Netflix?{" "}
         <Link className="text-white hover:underline" href="/sign-up">
           Sign up now
         </Link>
